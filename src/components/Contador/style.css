@@ -1,0 +1,24 @@
+.contador {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.contador>div {
+    width: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.contador>button {
+    background-color: rgb(61, 56, 56);
+    width: 20px;
+    height: 20px;
+    border: 0;
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
